@@ -1,0 +1,8 @@
+LIBRARY quirk-message
+EXPORTS
+    irc_msg_size
+    irc_msg_parse
+    irc_msg_get_error_message
+    irc_msg_init_context
+    irc_msg_reset_context
+    irc_msg_set_callbacks

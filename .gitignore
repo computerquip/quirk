@@ -1,0 +1,11 @@
+/*
+
+!/.gitignore
+!/include
+!/include/**
+!/src
+!/src/**
+!/CMakeLists.txt
+!/examples
+!/examples/**
+!/LICENSE
